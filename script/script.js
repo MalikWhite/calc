@@ -95,4 +95,5 @@ switchMode.addEventListener('click', ()=>{
     } else {
         theme.href = './css/dark-theme.css'
     }
+    reset;
 })
