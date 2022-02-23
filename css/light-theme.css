@@ -1,0 +1,27 @@
+.body {
+    background: #A0D7FF;
+    /* light theme */
+
+}
+
+.calc {
+    background: rgba(24, 154, 247, 0.2);
+    /* light theme */
+}
+
+.btn {
+    background: rgba(107, 107, 107, 0.10);
+    /* light theme */
+    color: rgba(255, 255, 255, 0.8);
+    /* light theme */
+}
+
+.btn-bg {
+    background: rgba(25, 228, 86, 0.20);
+    /* light theme */
+}
+
+.calc-screen {
+    color: rgba(26, 134, 12, 0.50);
+    
+}

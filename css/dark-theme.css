@@ -1,0 +1,24 @@
+.body {
+    background: #505050;
+    /* dark theme */
+}
+
+.calc {
+    background: rgba(34, 34, 34, 0.20);
+    /* dark theme */
+}
+
+.btn {
+    background: rgba(121, 121, 121, 0.20);
+    color: rgba(255, 255, 255, 0.80);
+    /* dark theme */
+}
+
+.btn-bg {
+    background: rgba(24, 116, 236, 0.20);
+    /* dark theme */
+}
+
+.calc-screen {
+    color: rgba(24, 116, 236, 0.50);
+}
