@@ -26,6 +26,7 @@
 
 
 .calc-screen {
+    overflow: hidden;
     max-width: 300px;
     display: flex;
     margin-top: 20px;
